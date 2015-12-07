@@ -64,9 +64,9 @@ Run "ant gwt-test-shell" to run the test/sample app in GWT Shell (hosted mode).
 4. QUESTIONS?
 -------------------------------------------------------------------------------
 
-Project home - http://code.google.com/p/gwt-html-editor/
-Wiki - http://code.google.com/p/gwt-html-editor/w/list
-Support group - http://groups.google.com/group/gwt-rich-text-editor
+ * Project home - http://code.google.com/p/gwt-html-editor/
+ * Wiki - http://code.google.com/p/gwt-html-editor/w/list
+ * Support group - http://groups.google.com/group/gwt-rich-text-editor
 
 5. DEVELOPERS
 -------------------------------------------------------------------------------
